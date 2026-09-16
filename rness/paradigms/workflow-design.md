@@ -1,0 +1,1 @@
+/Applications/enough.app/Contents/Resources/enough-src/defaults/paradigms/workflow-design.md
