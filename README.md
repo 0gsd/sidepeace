@@ -1,6 +1,6 @@
 # sidepeace
 
-A simple harness-agnostic pacing protocol background work, 
+A simple harness-agnostic pacing protocol for background work, 
 so a task that would drain a 5-hour quota in forty minutes 
 instead runs across days without hitting a wall.
 
